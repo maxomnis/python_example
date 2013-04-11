@@ -1,5 +1,5 @@
 #coding=utf-8
-a= u'ä¸­å›½'
+a= u'ÖÐ¹ú'
 
 b = a.encode('utf8')
 
